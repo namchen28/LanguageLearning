@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Language Learning</string>
+    <string name="screen1">Learn new language with fun</string>
+    <string name="screen2">Quick and easy</string>
+    <string name="screen3">Create your own study plan</string>
+
+    <string name="screen1des">Games and tools to help you to learn new language</string>
+    <string name="screen2des">Easy and fast access at any time to help you improve various skills</string>
+    <string name="screen3des">Study according to the study plan, make study more motivated</string>
+
+</resources>
